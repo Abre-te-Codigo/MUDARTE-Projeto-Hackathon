@@ -6,4 +6,3 @@ O mudarte! é um aplicativo que amplia o diálogo e a interação da sociedade c
 
 ## Vídeos 
 - Demo [https://www.youtube.com/watch?v=jK07nCF03rg](https://www.youtube.com/watch?v=jK07nCF03rg)
-- [https://www.youtube.com/watch?v=TZ0KBBhOI88&ab_channel=Paolade%C3%81vilaBarbosa](https://www.youtube.com/watch?v=TZ0KBBhOI88&ab_channel=Paolade%C3%81vilaBarbosa)
