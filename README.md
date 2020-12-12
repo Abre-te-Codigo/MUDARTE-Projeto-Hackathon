@@ -5,5 +5,5 @@ O mudarte! é um aplicativo que amplia o diálogo e a interação da sociedade c
 - [https://github.com/joaoleopoldoesilva/abretecodigo-grp11](https://github.com/joaoleopoldoesilva/abretecodigo-grp11)
 
 ## Vídeos 
-- [https://www.youtube.com/watch?v=jK07nCF03rg&feature=youtu.be](https://www.youtube.com/watch?v=jK07nCF03rg&feature=youtu.be)
+- Demo [https://www.youtube.com/watch?v=jK07nCF03rg](https://www.youtube.com/watch?v=jK07nCF03rg)
 - [https://www.youtube.com/watch?v=TZ0KBBhOI88&ab_channel=Paolade%C3%81vilaBarbosa](https://www.youtube.com/watch?v=TZ0KBBhOI88&ab_channel=Paolade%C3%81vilaBarbosa)
